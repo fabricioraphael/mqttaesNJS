@@ -1,0 +1,21 @@
+{
+  "name": "mqttaesnjs",
+  "version": "1.0.0",
+  "description": "mqtt client with aes256 encrypter from nodeJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mqtt",
+    "aes",
+    "aes256",
+    "nodejs"
+  ],
+  "author": "fabricioraphael",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^2.16.0",
+    "nodejs-aes256": "^1.0.1"
+  }
+}
